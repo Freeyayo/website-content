@@ -39,7 +39,7 @@ GraphQL is the new frontier in APIs (_Application Programming Interfaces_) desig
 
 It's a query language, and a set of server-side runtimes (implemented in various backend languages) for executing queries. It's not tied to a specific technology, but you can implement it in any language.
 
-It is a methodology that **directly competes with REST** (_REpresentational State Transfer_) APIs, much like REST competed with **SOAP** at first.
+It is a methodology that **directly competes with REST** (_Representational State Transfer_) APIs, much like REST competed with **SOAP** at first.
 
 And as we'll see, it's very different from REST. It creates a whole new dimension for API design.
 
